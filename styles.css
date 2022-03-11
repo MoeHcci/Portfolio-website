@@ -1,5 +1,5 @@
 body {
-  background-color:##A9A9A9;
+  background-color: #C7D2E3;
   opacity: 0.9;
 }
 
@@ -13,9 +13,10 @@ border-top: 2mm dotted black;
 }
 
 h1 {
-  color:  #000080;
+  color:  #12294B;
+
 }
 
 h2 {
-  color:  #000080;
+  color:  #385379;
 }
